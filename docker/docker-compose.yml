@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: erp-gym-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: erp_gym
+      MYSQL_USER: erp_user
+      MYSQL_PASSWORD: erp_pass
+    ports:
+      - '3307:3306'
+    volumes:
+      - erp_gym_data:/var/lib/mysql
+
+volumes:
+  erp_gym_data:
