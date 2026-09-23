@@ -40,6 +40,12 @@ O **ERP GYM** é um sistema de gestão para academias desenvolvido como uma apli
 
 As principais telas do sistema estão disponíveis abaixo, apresentando os diferentes módulos e funcionalidades do ERP GYM.
 
+### Login
+
+<p align="center">
+  <img src="./screenshots/login.png" alt="Tela de Login do ERP GYM" width="800">
+</p>
+
 ## Estrutura do projeto
 
 ```text
