@@ -4,18 +4,20 @@ O ERP GYM é um sistema de gestão para academias. Ele centraliza o cadastro de 
 
 ## Funcionalidades
 
-- Login com JWT e permissões por perfil.
-- Separação dos dados por academia usando `tenantId`.
-- Cadastro de alunos e usuários internos.
-- Criação de planos e matrículas.
-- Controle de cobranças e pagamentos.
-- Registro de presença e check-in.
-- Gestão de modalidades, turmas e horários.
-- Criação de fichas de treino e exercícios.
-- Registro de avaliações físicas e evolução.
-- Dashboard com indicadores da academia.
-- Auditoria de operações importantes.
-- Relatórios em CSV.
+ - Login com JWT e autenticação segura.
+ - Controle de acesso baseado em roles (RBAC), com processos e permissões definidos de acordo com a função de cada usuário.
+ - Acesso aos recursos do sistema limitado conforme o role e as permissões atribuídas ao usuário.
+ - Separação dos dados por academia utilizando tenantId.
+ - Cadastro de alunos e usuários internos.
+ - Criação de planos e matrículas.
+ - Controle de cobranças e pagamentos.
+ - Registro de presença e check-in.
+ - Gestão de modalidades, turmas e horários.
+ - Criação de fichas de treino e exercícios.
+ - Registro de avaliações físicas e acompanhamento da evolução.
+ - Dashboard com indicadores da academia.
+ - Auditoria de operações importantes.
+ - Relatórios em CSV.
 
 ## Estrutura do projeto
 
