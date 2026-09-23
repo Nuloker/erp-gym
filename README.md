@@ -42,9 +42,45 @@ As principais telas do sistema estão disponíveis abaixo, apresentando os difer
 
 ### Login
 
-<p align="center">
-  <img src="./screenshots/login.png" alt="Tela de Login do ERP GYM" width="800">
-</p>
+![Tela de Login do ERP GYM](./screenshots/login.png)
+
+### Dashboard
+
+![Dashboard do ERP GYM](./screenshots/dashboard.png)
+
+### Gestão de Alunos e Planos
+
+|                      Alunos                     |                    Planos                    |
+| :---------------------------------------------: | :------------------------------------------: |
+| ![Gestão de Alunos](./screenshots/students.png) | ![Gestão de Planos](./screenshots/plans.png) |
+
+### Matrículas e Financeiro
+
+|                       Matrículas                       |                     Financeiro                    |
+| :----------------------------------------------------: | :-----------------------------------------------: |
+| ![Gestão de Matrículas](./screenshots/enrollments.png) | ![Gestão Financeira](./screenshots/financial.png) |
+
+### Check-in e Turmas
+
+|                      Check-in                      |                     Turmas                     |
+| :------------------------------------------------: | :--------------------------------------------: |
+| ![Sistema de Check-in](./screenshots/check-in.png) | ![Gestão de Turmas](./screenshots/classes.png) |
+
+### Treinos e Avaliações
+
+|                      Treinos                     |                      Avaliações                      |
+| :----------------------------------------------: | :--------------------------------------------------: |
+| ![Gestão de Treinos](./screenshots/workouts.png) | ![Avaliações Físicas](./screenshots/assessments.png) |
+
+### Relatórios e Auditoria
+
+|                Relatórios                |               Auditoria               |
+| :--------------------------------------: | :-----------------------------------: |
+| ![Relatórios](./screenshots/reports.png) | ![Auditoria](./screenshots/audit.png) |
+
+### Usuários
+
+![Gestão de Usuários](./screenshots/users.png)
 
 ## Estrutura do projeto
 
